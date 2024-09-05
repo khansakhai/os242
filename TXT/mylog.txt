@@ -5,6 +5,10 @@ ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 20 L03 GitHub related
 ZCZC W00 5 L04 GitHub Pages related
-ZCZC W01 10 L01 SCELE/Discord related
-ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
-
+ZCZC W01 30 L01 SCELE/Discord related
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 20 L03 GitHub related
+ZCZC W01 10 L06 References/Books related
+ZCZC W01 120 L11 Assignment #01
+ZCZC W01 30 L31 VirtualBox: install GNU/Linux
+ZCZC W01 15 L64 Helping a friend (OS related problem)
