@@ -12,3 +12,8 @@ ZCZC W01 10 L06 References/Books related
 ZCZC W01 120 L11 Assignment #01
 ZCZC W01 30 L31 VirtualBox: install GNU/Linux
 ZCZC W01 15 L64 Helping a friend (OS related problem)
+ZCZC W02 20 L01 SCELE/Discord related
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 30 L03 GitHub related
+ZCZC W02 140 L12 Assignment #02
+ZCZC W02 20 L64 Helping a friend (OS related problem)
