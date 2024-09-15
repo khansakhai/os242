@@ -8,4 +8,4 @@ permalink: LINKS/
 
 [Vim Basics in 8 Minutes](https://youtu.be/ggSyF1SVFr4?si=J7pvkP_k8ND8NQM6) --- This short tutorial introduces the key commands needed to navigate and edit text in Vim. In this video, you'll learn how to make and undo changes to a file, delete lines, searching text, save, and exit, making it an ideal starting point for new Vim users.
 
-[Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g?si=mzgGoWnA0bgiVK2r) --- A quick video that introduces bash shell, showing how it functions and what it can do. It's a informative overview for anyone new to using the terminal in a Linux environment.
+[Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g?si=mzgGoWnA0bgiVK2r) --- A quick video that introduces bash shell, showing how it functions and what it can do. It's an informative overview for anyone new to using the terminal in a Linux environment.
