@@ -17,3 +17,9 @@ permalink: LINKS/
 [How to Compress Files in Linux - Tar Command](https://www.geeksforgeeks.org/tar-command-linux-examples/) --- This article explains the tar command in Linux, offering practical examples for creating, extracting, and managing tar archives. It’s a handy guide for easily compressing and backing up files in Linux.
 
 [Copy Files and Directories in Linux](https://www.linode.com/docs/guides/how-to-copy-files-and-directories-in-linux/) --- This article explains how to copy files and directories in Linux using commands like cp and rsync. It includes examples for copying single files, multiple files, and entire directories while preserving file attributes.
+
+[Memory Management in Operating System](https://www.scaler.com/topics/memory-management-in-operating-system/) --- This article gives a simple rundown of how memory management works in an operating system. It talks about why it's important, different methods like paging and segmentation, and how the OS handles memory to keep everything running smoothly.
+
+[SCP command to Securely Transfer Files/Folders in Linux](https://youtu.be/fmMg6cyww14?si=p58Wzb9KMiaJt32P) --- This video shows how to use the scp command to securely transfer files and folders between two Linux systems. It explains the basics of scp, including syntax and options, so you can easily transfer data on Linux distributions like Ubuntu, CentOS, Fedora, and more.
+
+[4 Big Endian vs Little Endian Byte Ordering](https://youtu.be/jhErugDB-34?si=jJbfXBwG0fbFK-wZ) --- This video explains the difference between big endian and little endian, two methods for storing bytes in memory. It makes it easy to understand how data is organized and why endianness matters in computer systems.
