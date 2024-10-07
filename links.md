@@ -23,3 +23,11 @@ permalink: LINKS/
 [SCP command to Securely Transfer Files/Folders in Linux](https://youtu.be/fmMg6cyww14?si=p58Wzb9KMiaJt32P) --- This video shows how to use the scp command to securely transfer files and folders between two Linux systems. It explains the basics of scp, including syntax and options, so you can easily transfer data on Linux distributions like Ubuntu, CentOS, Fedora, and more.
 
 [4 Big Endian vs Little Endian Byte Ordering](https://youtu.be/jhErugDB-34?si=jJbfXBwG0fbFK-wZ) --- This video explains the difference between big endian and little endian, two methods for storing bytes in memory. It makes it easy to understand how data is organized and why endianness matters in computer systems.
+
+[What is virtual memory? – Gary explains](https://youtu.be/2quKyPnUShQ?si=QX83OAJEmtSifb5X) --- This video explains how virtual memory allows operating systems like Windows, iOS, and Android to extend physical RAM by using storage space. This helps the system manage larger workloads and run more applications than the physical memory alone could handle, improving performance and multitasking capabilities.
+
+[Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) --- This article explains that virtual memory allows an operating system to use disk storage as an extension of RAM, improving performance by handling larger processes and multitasking.
+
+[Don't Panic! Everything You Need to Know About Kernel Panics](https://www.makeuseof.com/tag/dont-panic-everything-you-need-to-know-about-kernel-panics/) --- This article breaks down kernel panics, which are basically when your computer hits a major error it can't fix and just crashes.
+
+[Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s?si=TuArhStOKORDHW_t) --- This video gives a chill rundown on memory management in operating systems, focusing on segmented and paged memory systems.
