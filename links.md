@@ -31,3 +31,5 @@ permalink: LINKS/
 [Don't Panic! Everything You Need to Know About Kernel Panics](https://www.makeuseof.com/tag/dont-panic-everything-you-need-to-know-about-kernel-panics/) --- This article breaks down kernel panics, which are basically when your computer hits a major error it can't fix and just crashes.
 
 [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s?si=TuArhStOKORDHW_t) --- This video gives a chill rundown on memory management in operating systems, focusing on segmented and paged memory systems.
+
+[Fork and Exec System Calls](https://youtu.be/IFEFVXvjiHY?si=22ma8cbXm0QWDmS6)
