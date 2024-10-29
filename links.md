@@ -32,4 +32,8 @@ permalink: LINKS/
 
 [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s?si=TuArhStOKORDHW_t) --- This video gives a chill rundown on memory management in operating systems, focusing on segmented and paged memory systems.
 
-[Fork and Exec System Calls](https://youtu.be/IFEFVXvjiHY?si=22ma8cbXm0QWDmS6)
+[Threads and Concurrency](https://www.omscs-notes.com/operating-systems/threads-and-concurrency/) --- This article explores threads and concurrency in operating systems, detailing the distinction between threads and processes and the benefits of multithreading. It also discusses synchronization mechanisms like mutexes to manage thread interaction effectively.
+
+[What is a Thread | Concept of Process and Thread | Operating System](https://youtu.be/RDr7xCunN80?si=2966_6ZqPXNUo6W8) --- This video explains the concepts of processes and threads in operating systems, offering a straightforward overview for those looking to grasp the fundamentals of multitasking and concurrent processing.
+
+[Fork and Exec System Calls](https://youtu.be/IFEFVXvjiHY?si=22ma8cbXm0QWDmS6) --- This video covers the fork() and exec() system calls in operating systems, explaining how they manage process creation and program execution.
