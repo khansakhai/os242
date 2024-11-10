@@ -39,3 +39,5 @@ permalink: LINKS/
 [Fork and Exec System Calls](https://youtu.be/IFEFVXvjiHY?si=22ma8cbXm0QWDmS6) --- This video covers the fork() and exec() system calls in operating systems, explaining how they manage process creation and program execution.
 
 [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) --- This article discusses the concept of semaphores in process synchronization, covering their types (counting and binary), how they work, and their role in managing access to shared resources in operating systems.
+
+[LFS 12.2 - How to build Linux From Scratch 12.2](https://youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&si=aa_tZCGk7cv1aHe1) --- This playlist walks you through building Linux From Scratch 12.2 from start to finish, covers the entire process from disk configuration to final system boot.
